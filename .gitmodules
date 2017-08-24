@@ -1,6 +1,0 @@
-[submodule "opencv_tracker_performance_test"]
-	path = opencv_tracker_performance_test
-	url = https://github.com/twangjie/opencv_tracker_performance_test.git
-[submodule "vehicle_detection_haarcascades"]
-	path = vehicle_detection_haarcascades
-	url = https://github.com/twangjie/vehicle_detection_haarcascades.git
